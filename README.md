@@ -19,7 +19,7 @@ Monday September 8
 2. Computer-related stuff to know
   - how things are represented
   - file organization
-3. Python
+3. Python (not completely done !)
   - look back to syntax
   - iteration structures
   - conditional structures
