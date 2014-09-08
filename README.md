@@ -15,7 +15,7 @@ Monday September 8
 ###Content of the lecture
 1. Git
   - installation and configuration
-  - git basics (add, commit, push, pull
+  - git basics (add, commit, push, pull)
 2. Computer-related stuff to know
   - how things are represented
   - file organization
