@@ -14,13 +14,30 @@ Monday September 8
 
 ###Content of the lecture
 1. Git
-  - installation and configuration
-  - git basics (add, commit, push, pull)
+  - quick presentation
+  - not much else this day
 2. Computer-related stuff to know
   - how things are represented
+  - understanding the difference between editing a script (i.e. writing and saving a text file) and interpreting this script with python.
   - file organization
-3. Python (not completely done !)
+  - remember : only use numbers, english alphabet letters and _ to name files and folders!
+3. Python
+  - the os module
+  - the path and its pitfalls (especially with windows)
+  - os.getcwd() and os.chdir()
+
+Course 4
+--------
+Tuesday September 9
+
+###Content of the lecture
+1. Git
+ - installing git and git-client (check here or your emails in the evening for more details)
+ - git basics (add, commit, push, pull)
+2. Python
   - look back to syntax
   - iteration structures
   - conditional structures
+  - show an inmage with pygame
   - string formating
+  - a very basic experimental psychology stimulation script
