@@ -8,3 +8,8 @@ on linux : get a path to a file suing the command line or a gui like nautilus
 """
 
 import os
+f="/Users/sc/GitHub/cogmaster2014AIP/file_manipulation.py";
+[path,name]=os.path.split(f)
+print path
+print name
+
