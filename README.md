@@ -12,7 +12,7 @@ Monday September 8
 - download a git client
 - read the first chapter of "Think Python" by Allen Downey
 
-#Content of the lecture
+###Content of the lecture
 1. Git
   - installation and configuration
   - git basics (add, commit, push, pull
