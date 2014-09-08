@@ -8,9 +8,9 @@ Course 3
 Monday September 8
 
 ###Prerequisites
--create a git account
--download a git client
--read the first chapter of "Think Python" by Allen Downey
+- create a git account
+- download a git client
+- read the first chapter of "Think Python" by Allen Downey
 
 #Content of the lecture
 1. Git
