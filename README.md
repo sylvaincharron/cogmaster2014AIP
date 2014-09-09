@@ -38,6 +38,5 @@ Tuesday September 9
   - look back to syntax
   - iteration structures
   - conditional structures
-  - show an image with pygame
   - string formating
   - a very basic experimental psychology stimulation script
